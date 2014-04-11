@@ -1,6 +1,3 @@
-package solution.laiconglin;
-
-
 public class Sudoku_Solve {
 	public String[] solveSudoku(String[] board) {
 		String[] res = new String[9];
